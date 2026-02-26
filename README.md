@@ -1,20 +1,29 @@
-# Page Object model Test automation framework using Selenium with Java, TestNG and Maven-
-This is a sample project to demonstrate what is page object model framework and how it can used in selenium to automate any application.
-TestNG is used as test framework.
+# E-commerce Test Automation Framework
 
-Dependency
-Java
-Maven
+This project is a Page Object Model based Selenium automation framework developed to automate key user scenarios of an e-commerce application.
 
-###libraries used
-Selenium
-TestNG
-log4j
-Extent Reports
+## 📌 Features
+✔ Page Object Model architecture  
+✔ UI automation using Selenium WebDriver with TestNG  
+✔ Maven based project structure  
+✔ Professional test report generation  
+✔ CI/CD ready (Jenkins / GitHub Actions later)
 
-### Steps to clone execute the tests
-```
-git clone https://github.com/naveenanimation20/PageObjectModel
-cd PageObjectModel
-mvn clean test
-```
+## 🛠️ Technologies
+- Java
+- Selenium WebDriver
+- TestNG
+- Maven
+
+## 📂 Project Structure
+The framework follows a clean structure separating Page Objects, Test Cases, and Utilities.
+
+## 🧪 Test Scenarios (examples)
+- Login functionality
+- Product search
+- Add to cart validation
+
+## 🚀 How to Run
+1. Clone the repository  
+2. Open in IntelliJ IDEA  
+3. Run tests using:  
